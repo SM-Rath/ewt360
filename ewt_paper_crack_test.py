@@ -1,4 +1,4 @@
-# 本程序用于
+# 本程序用于获取ewt试卷答案
 # @version test
 # @auther landuoguo
 
